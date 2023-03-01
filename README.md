@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# TODO
+
+Solve the following error:
+
+access to xmlhttprequest at 'http://localhost:8000/api/todo' from origin 'http://localhost:3000' has been blocked by cors policy: no 'access-control-allow-origin' header is present on the requested resource.
+
+Check [this](https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9) for help
